@@ -5,6 +5,7 @@ import baseAxios from "../../../../Config";
 import { IoIosDoneAll } from "react-icons/io";
 import { SlUserFollow } from "react-icons/sl";
 import Swal from "sweetalert2";
+import { getImageUrl } from "@/app/utils";
 
 const imageBaseUrl = getImageUrl();
 

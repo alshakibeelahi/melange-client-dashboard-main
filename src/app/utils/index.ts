@@ -1,7 +1,7 @@
 export const getImageUrl = () => {
-  return "http://46.101.72.128:5000";
+  return "https://api.melangerecords.online";
 }
 
 export const getBaseUrl = () => {
-  return "http://46.101.72.128:5000/api/v1";
+  return "https://api.melangerecords.online/api/v1";
 }

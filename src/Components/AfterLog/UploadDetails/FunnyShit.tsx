@@ -286,7 +286,7 @@ const FunnyShit = () => {
                 <div>
                   <div className="flex justify-center items-center">
                     <Form.Item>
-                      <SubmitButton title={"Sign in"} />
+                      <SubmitButton title={"Upload"} />
                     </Form.Item>
                   </div>
                 </div>
